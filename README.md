@@ -1,4 +1,4 @@
 Virtual Reality based 3D 360 Educational Content
 
 Download the complete unity package using the link below:
-https://drive.google.com/file/d/1yXY2nWD_wsmTVKuwZcW2kr15F99Z5AxB/view?usp=sharing
+https://drive.google.com/drive/folders/1sphKXbB_0xve5t7hdaZS9y-vPonhxrT5?usp=sharing
